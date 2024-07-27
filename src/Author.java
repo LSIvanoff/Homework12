@@ -15,5 +15,4 @@ public class Author {
     public String getLastname() {
         return this.lastname;
     }
-
 }
